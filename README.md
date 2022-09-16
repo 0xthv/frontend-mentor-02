@@ -46,4 +46,4 @@ Relay less on Grid/Flexbox.
 
 ## Acknowledgments
 
-Once again using Jonh Smilga default starting files. Thank you John!
+Once again using John Smilga default starting files. Thank you John!
